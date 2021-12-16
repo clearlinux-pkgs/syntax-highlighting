@@ -5,11 +5,11 @@
 # Source0 file verified with key 0x58D0EE648A48B3BB (faure@kde.org)
 #
 Name     : syntax-highlighting
-Version  : 5.88.0
-Release  : 45
-URL      : https://download.kde.org/stable/frameworks/5.88/syntax-highlighting-5.88.0.tar.xz
-Source0  : https://download.kde.org/stable/frameworks/5.88/syntax-highlighting-5.88.0.tar.xz
-Source1  : https://download.kde.org/stable/frameworks/5.88/syntax-highlighting-5.88.0.tar.xz.sig
+Version  : 5.89.0
+Release  : 46
+URL      : https://download.kde.org/stable/frameworks/5.89/syntax-highlighting-5.89.0.tar.xz
+Source0  : https://download.kde.org/stable/frameworks/5.89/syntax-highlighting-5.89.0.tar.xz
+Source1  : https://download.kde.org/stable/frameworks/5.89/syntax-highlighting-5.89.0.tar.xz.sig
 Summary  : Recorder for internet radios (based on Streamripper)
 Group    : Development/Tools
 License  : CC0-1.0 GPL-2.0 LGPL-2.0 LGPL-2.1 MIT
@@ -17,18 +17,16 @@ Requires: syntax-highlighting-bin = %{version}-%{release}
 Requires: syntax-highlighting-data = %{version}-%{release}
 Requires: syntax-highlighting-lib = %{version}-%{release}
 Requires: syntax-highlighting-license = %{version}-%{release}
-Requires: click
 BuildRequires : buildreq-cmake
 BuildRequires : buildreq-distutils3
 BuildRequires : buildreq-kde
 BuildRequires : buildreq-meson
 BuildRequires : buildreq-qmake
-BuildRequires : click
 BuildRequires : extra-cmake-modules-data
 BuildRequires : perl
+BuildRequires : pypi(setuptools)
+BuildRequires : pypi(wheel)
 BuildRequires : qtbase-dev mesa-dev
-BuildRequires : setuptools
-BuildRequires : wheel
 
 %description
 # Syntax Highlighting
@@ -85,15 +83,15 @@ license components for the syntax-highlighting package.
 
 
 %prep
-%setup -q -n syntax-highlighting-5.88.0
-cd %{_builddir}/syntax-highlighting-5.88.0
+%setup -q -n syntax-highlighting-5.89.0
+cd %{_builddir}/syntax-highlighting-5.89.0
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1636999021
+export SOURCE_DATE_EPOCH=1639671990
 mkdir -p clr-build
 pushd clr-build
 export GCC_IGNORE_WERROR=1
@@ -109,15 +107,16 @@ make  %{?_smp_mflags}
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1636999021
+export SOURCE_DATE_EPOCH=1639671990
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/syntax-highlighting
-cp %{_builddir}/syntax-highlighting-5.88.0/LICENSES/GPL-2.0-only.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/2a638514c87c4923c0570c55822620fad56f2a33
-cp %{_builddir}/syntax-highlighting-5.88.0/LICENSES/LGPL-2.0-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/20079e8f79713dce80ab09774505773c926afa2a
-cp %{_builddir}/syntax-highlighting-5.88.0/LICENSES/LGPL-2.1-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/6f1f675aa5f6a2bbaa573b8343044b166be28399
-cp %{_builddir}/syntax-highlighting-5.88.0/LICENSES/MIT.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/a0193e3fccf86c17dc71e3f6c0ac0b535e06bea3
-cp %{_builddir}/syntax-highlighting-5.88.0/docs/qml-api.md.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/28ba3ebe1aa04fad742c69eb685e2a5376e9276f
-cp %{_builddir}/syntax-highlighting-5.88.0/src/quick/qmldir.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/12bd786cf1d4af3d5767315038df2141eb66c02a
+cp %{_builddir}/syntax-highlighting-5.89.0/LICENSES/CC0-1.0.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/82da472f6d00dc5f0a651f33ebb320aa9c7b08d0
+cp %{_builddir}/syntax-highlighting-5.89.0/LICENSES/GPL-2.0-only.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/2a638514c87c4923c0570c55822620fad56f2a33
+cp %{_builddir}/syntax-highlighting-5.89.0/LICENSES/LGPL-2.0-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/20079e8f79713dce80ab09774505773c926afa2a
+cp %{_builddir}/syntax-highlighting-5.89.0/LICENSES/LGPL-2.1-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/6f1f675aa5f6a2bbaa573b8343044b166be28399
+cp %{_builddir}/syntax-highlighting-5.89.0/LICENSES/MIT.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/a0193e3fccf86c17dc71e3f6c0ac0b535e06bea3
+cp %{_builddir}/syntax-highlighting-5.89.0/docs/qml-api.md.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/28ba3ebe1aa04fad742c69eb685e2a5376e9276f
+cp %{_builddir}/syntax-highlighting-5.89.0/src/quick/qmldir.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/12bd786cf1d4af3d5767315038df2141eb66c02a
 pushd clr-build
 %make_install
 popd
@@ -253,7 +252,7 @@ popd
 %files lib
 %defattr(-,root,root,-)
 /usr/lib64/libKF5SyntaxHighlighting.so.5
-/usr/lib64/libKF5SyntaxHighlighting.so.5.88.0
+/usr/lib64/libKF5SyntaxHighlighting.so.5.89.0
 /usr/lib64/qt5/qml/org/kde/syntaxhighlighting/libkquicksyntaxhighlightingplugin.so
 /usr/lib64/qt5/qml/org/kde/syntaxhighlighting/qmldir
 
@@ -264,4 +263,5 @@ popd
 /usr/share/package-licenses/syntax-highlighting/28ba3ebe1aa04fad742c69eb685e2a5376e9276f
 /usr/share/package-licenses/syntax-highlighting/2a638514c87c4923c0570c55822620fad56f2a33
 /usr/share/package-licenses/syntax-highlighting/6f1f675aa5f6a2bbaa573b8343044b166be28399
+/usr/share/package-licenses/syntax-highlighting/82da472f6d00dc5f0a651f33ebb320aa9c7b08d0
 /usr/share/package-licenses/syntax-highlighting/a0193e3fccf86c17dc71e3f6c0ac0b535e06bea3
