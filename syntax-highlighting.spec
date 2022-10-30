@@ -6,7 +6,7 @@
 #
 Name     : syntax-highlighting
 Version  : 5.99.0
-Release  : 56
+Release  : 57
 URL      : https://download.kde.org/stable/frameworks/5.99/syntax-highlighting-5.99.0.tar.xz
 Source0  : https://download.kde.org/stable/frameworks/5.99/syntax-highlighting-5.99.0.tar.xz
 Source1  : https://download.kde.org/stable/frameworks/5.99/syntax-highlighting-5.99.0.tar.xz.sig
@@ -19,7 +19,6 @@ Requires: syntax-highlighting-lib = %{version}-%{release}
 Requires: syntax-highlighting-license = %{version}-%{release}
 BuildRequires : buildreq-cmake
 BuildRequires : buildreq-distutils3
-BuildRequires : buildreq-golang
 BuildRequires : buildreq-kde
 BuildRequires : buildreq-meson
 BuildRequires : buildreq-qmake
@@ -94,7 +93,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1665413029
+export SOURCE_DATE_EPOCH=1667094750
 mkdir -p clr-build
 pushd clr-build
 export GCC_IGNORE_WERROR=1
@@ -110,16 +109,16 @@ make  %{?_smp_mflags}
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1665413029
+export SOURCE_DATE_EPOCH=1667094750
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/syntax-highlighting
-cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/CC0-1.0.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/82da472f6d00dc5f0a651f33ebb320aa9c7b08d0 || :
-cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/GPL-2.0-only.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/2a638514c87c4923c0570c55822620fad56f2a33 || :
-cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/LGPL-2.0-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/20079e8f79713dce80ab09774505773c926afa2a || :
-cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/LGPL-2.1-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/6f1f675aa5f6a2bbaa573b8343044b166be28399 || :
-cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/MIT.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/a0193e3fccf86c17dc71e3f6c0ac0b535e06bea3 || :
-cp %{_builddir}/syntax-highlighting-%{version}/docs/qml-api.md.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/28ba3ebe1aa04fad742c69eb685e2a5376e9276f || :
-cp %{_builddir}/syntax-highlighting-%{version}/src/quick/qmldir.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/12bd786cf1d4af3d5767315038df2141eb66c02a || :
+cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/CC0-1.0.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/82da472f6d00dc5f0a651f33ebb320aa9c7b08d0
+cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/GPL-2.0-only.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/2a638514c87c4923c0570c55822620fad56f2a33
+cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/LGPL-2.0-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/20079e8f79713dce80ab09774505773c926afa2a
+cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/LGPL-2.1-or-later.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/6f1f675aa5f6a2bbaa573b8343044b166be28399
+cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/MIT.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/a0193e3fccf86c17dc71e3f6c0ac0b535e06bea3
+cp %{_builddir}/syntax-highlighting-%{version}/docs/qml-api.md.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/28ba3ebe1aa04fad742c69eb685e2a5376e9276f
+cp %{_builddir}/syntax-highlighting-%{version}/src/quick/qmldir.license %{buildroot}/usr/share/package-licenses/syntax-highlighting/12bd786cf1d4af3d5767315038df2141eb66c02a
 pushd clr-build
 %make_install
 popd
