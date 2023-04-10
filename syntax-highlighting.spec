@@ -6,11 +6,11 @@
 # Source0 file verified with key 0x58D0EE648A48B3BB (faure@kde.org)
 #
 Name     : syntax-highlighting
-Version  : 5.104.0
-Release  : 63
-URL      : https://download.kde.org/stable/frameworks/5.104/syntax-highlighting-5.104.0.tar.xz
-Source0  : https://download.kde.org/stable/frameworks/5.104/syntax-highlighting-5.104.0.tar.xz
-Source1  : https://download.kde.org/stable/frameworks/5.104/syntax-highlighting-5.104.0.tar.xz.sig
+Version  : 5.105.0
+Release  : 64
+URL      : https://download.kde.org/stable/frameworks/5.105/syntax-highlighting-5.105.0.tar.xz
+Source0  : https://download.kde.org/stable/frameworks/5.105/syntax-highlighting-5.105.0.tar.xz
+Source1  : https://download.kde.org/stable/frameworks/5.105/syntax-highlighting-5.105.0.tar.xz.sig
 Summary  : Recorder for internet radios (based on Streamripper)
 Group    : Development/Tools
 License  : CC0-1.0 GPL-2.0 LGPL-2.0 LGPL-2.1 MIT
@@ -19,16 +19,9 @@ Requires: syntax-highlighting-data = %{version}-%{release}
 Requires: syntax-highlighting-lib = %{version}-%{release}
 Requires: syntax-highlighting-license = %{version}-%{release}
 BuildRequires : buildreq-cmake
-BuildRequires : buildreq-distutils3
 BuildRequires : buildreq-kde
-BuildRequires : buildreq-meson
-BuildRequires : buildreq-qmake
 BuildRequires : extra-cmake-modules-data
 BuildRequires : perl
-BuildRequires : pypi(click)
-BuildRequires : pypi(columnize)
-BuildRequires : pypi(setuptools)
-BuildRequires : pypi(wheel)
 BuildRequires : qtbase-dev mesa-dev
 # Suppress stripping binaries
 %define __strip /bin/true
@@ -89,15 +82,15 @@ license components for the syntax-highlighting package.
 
 
 %prep
-%setup -q -n syntax-highlighting-5.104.0
-cd %{_builddir}/syntax-highlighting-5.104.0
+%setup -q -n syntax-highlighting-5.105.0
+cd %{_builddir}/syntax-highlighting-5.105.0
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1679513797
+export SOURCE_DATE_EPOCH=1681139353
 mkdir -p clr-build
 pushd clr-build
 export GCC_IGNORE_WERROR=1
@@ -113,7 +106,7 @@ make  %{?_smp_mflags}
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1679513797
+export SOURCE_DATE_EPOCH=1681139353
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/syntax-highlighting
 cp %{_builddir}/syntax-highlighting-%{version}/LICENSES/CC0-1.0.txt %{buildroot}/usr/share/package-licenses/syntax-highlighting/82da472f6d00dc5f0a651f33ebb320aa9c7b08d0 || :
@@ -257,7 +250,7 @@ popd
 %files lib
 %defattr(-,root,root,-)
 /usr/lib64/libKF5SyntaxHighlighting.so.5
-/usr/lib64/libKF5SyntaxHighlighting.so.5.104.0
+/usr/lib64/libKF5SyntaxHighlighting.so.5.105.0
 /usr/lib64/qt5/qml/org/kde/syntaxhighlighting/libkquicksyntaxhighlightingplugin.so
 /usr/lib64/qt5/qml/org/kde/syntaxhighlighting/qmldir
 
