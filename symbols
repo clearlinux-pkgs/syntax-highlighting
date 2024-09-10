@@ -1,204 +1,204 @@
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Definition14setKeywordListERK7QStringRK5QListIS1_E
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionC1EOS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionC1ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionC2EOS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionC2ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionaSEOS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10DefinitionaSERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Repository11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Repository11qt_metacastEPKc
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Repository13aboutToReloadEv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Repository19addCustomSearchPathERK7QString
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Repository6reloadEv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10Repository8reloadedEv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10RepositoryC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10RepositoryC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10RepositoryD0Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10RepositoryD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting10RepositoryD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting13FoldingRegionC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting13FoldingRegionC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighter11applyFormatEiiRKNS_6FormatE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighter13highlightDataEP9QIODeviceNS0_10AnsiFormatE6QFlagsINS0_6OptionEE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighter13highlightFileERK7QStringNS0_10AnsiFormatE6QFlagsINS0_6OptionEE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighter13setOutputFileEP8_IO_FILE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighter13setOutputFileERK7QString
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighterC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighterC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighterD0Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighterD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15AnsiHighlighterD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighter11applyFormatEiiRKNS_6FormatE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighter13highlightDataEP9QIODeviceRK7QString
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighter13highlightFileERK7QStringS3_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighter13setOutputFileEP8_IO_FILE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighter13setOutputFileERK7QString
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighterC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighterC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighterD0Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighterD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15HtmlHighlighterD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting15WildcardMatcher10exactMatchE11QStringViewS1_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter11applyFormatEiiRKNS_6FormatE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter11qt_metacastEPKc
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter12applyFoldingEiiNS_13FoldingRegionE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter13setDefinitionERKNS_10DefinitionE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter14highlightBlockERK7QString
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighter8setThemeERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterC1EP13QTextDocument
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterC1EP7QObject
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterC2EP13QTextDocument
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterC2EP7QObject
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterD0Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting17SyntaxHighlighterD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighter12applyFoldingEiiNS_13FoldingRegionE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighter13highlightLineE11QStringViewRKNS_5StateE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighter13setDefinitionERKNS_10DefinitionE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighter8setThemeERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighterC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighterC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighterD0Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighterD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting19AbstractHighlighterD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloader11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloader11qt_metacastEPKc
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloader18informationMessageERK7QString
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloader4doneEv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloader5startEv
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloaderC1EPNS_10RepositoryEP7QObject
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloaderC2EPNS_10RepositoryEP7QObject
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloaderD0Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloaderD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting20DefinitionDownloaderD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateC1EOS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateC1ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateC2EOS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateC2ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateaSEOS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5StateaSERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeC1ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeC2ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5ThemeaSERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting5qHashERKNS_5StateEm
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormatC1ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormatC1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormatC2ERKS0_
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormatC2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormatD1Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormatD2Ev
-libKF6SyntaxHighlighting.so.6:_ZN19KSyntaxHighlighting6FormataSERKS0_
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition10extensionsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition11keywordListERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition12keywordListsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition14foldingEnabledEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition14translatedNameEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition15isWordDelimiterE5QChar
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition16alternativeNamesEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition17foldingIgnoreListEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition17translatedSectionEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition18characterEncodingsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition19includedDefinitionsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition19isWordWrapDelimiterE5QChar
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition22multiLineCommentMarkerEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition23singleLineCommentMarkerEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition25singleLineCommentPositionEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition30indentationBasedFoldingEnabledEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition4nameEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition5styleEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition6authorEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition7formatsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition7isValidEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition7licenseEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition7sectionEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition7versionEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition8filePathEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition8indenterEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition8isHiddenEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition8priorityEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Definition9mimeTypesEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10DefinitioneqERKS0_
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10DefinitionneERKS0_
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository10metaObjectEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository11definitionsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository12defaultThemeENS0_12DefaultThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository15themeForPaletteERK8QPalette
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository17customSearchPathsEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository17definitionForNameERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository21definitionForFileNameERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository21definitionForMimeTypeERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository22definitionsForFileNameERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository22definitionsForMimeTypeERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository5themeERK7QString
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting10Repository6themesEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting13FoldingRegion2idEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting13FoldingRegion4typeEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting13FoldingRegion7isValidEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting13FoldingRegion7siblingEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting13FoldingRegioneqERKS0_
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting17SyntaxHighlighter10metaObjectEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting17SyntaxHighlighter19startsFoldingRegionERK10QTextBlock
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting17SyntaxHighlighter20findFoldingRegionEndERK10QTextBlock
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting19AbstractHighlighter10definitionEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting19AbstractHighlighter5themeEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting20DefinitionDownloader10metaObjectEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5State30indentationBasedFoldingEnabledEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5StateeqERKS0_
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5StateneERKS0_
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme10isReadOnlyEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme11editorColorENS0_15EditorColorRoleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme11isUnderlineENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme14translatedNameEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme15backgroundColorENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme15isStrikeThroughENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme17selectedTextColorENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme23selectedBackgroundColorENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme4nameEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme6isBoldENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme7isValidEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme8filePathEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme8isItalicENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting5Theme9textColorENS0_9TextStyleE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format10spellCheckEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format11isUnderlineERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format12hasTextColorERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format15backgroundColorERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format15hasBoldOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format15isStrikeThroughERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format17hasItalicOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format17selectedTextColorERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format18hasBackgroundColorERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format18isDefaultTextStyleERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format20hasTextColorOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format20hasUnderlineOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format23selectedBackgroundColorERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format24hasStrikeThroughOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format26hasBackgroundColorOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format28hasSelectedTextColorOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format2idEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format34hasSelectedBackgroundColorOverrideEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format4nameEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format6isBoldERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format7isValidEv
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format8isItalicERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format9textColorERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZNK19KSyntaxHighlighting6Format9textStyleEv
-libKF6SyntaxHighlighting.so.6:_ZThn16_N19KSyntaxHighlighting17SyntaxHighlighter11applyFormatEiiRKNS_6FormatE
-libKF6SyntaxHighlighting.so.6:_ZThn16_N19KSyntaxHighlighting17SyntaxHighlighter12applyFoldingEiiNS_13FoldingRegionE
-libKF6SyntaxHighlighting.so.6:_ZThn16_N19KSyntaxHighlighting17SyntaxHighlighter13setDefinitionERKNS_10DefinitionE
-libKF6SyntaxHighlighting.so.6:_ZThn16_N19KSyntaxHighlighting17SyntaxHighlighter8setThemeERKNS_5ThemeE
-libKF6SyntaxHighlighting.so.6:_ZThn16_N19KSyntaxHighlighting17SyntaxHighlighterD0Ev
-libKF6SyntaxHighlighting.so.6:_ZThn16_N19KSyntaxHighlighting17SyntaxHighlighterD1Ev
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::setKeywordList(QString const&, QList<QString> const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::Definition(KSyntaxHighlighting::Definition&&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::Definition(KSyntaxHighlighting::Definition const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::Definition()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::Definition(KSyntaxHighlighting::Definition&&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::Definition(KSyntaxHighlighting::Definition const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::Definition()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::~Definition()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::~Definition()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::operator=(KSyntaxHighlighting::Definition&&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::operator=(KSyntaxHighlighting::Definition const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::qt_metacall(QMetaObject::Call, int, void**)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::qt_metacast(char const*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::aboutToReload()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::addCustomSearchPath(QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::reload()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::reloaded()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::Repository()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::Repository()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::~Repository()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::~Repository()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::~Repository()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::FoldingRegion()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::FoldingRegion()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::applyFormat(int, int, KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::highlightData(QIODevice*, KSyntaxHighlighting::AnsiHighlighter::AnsiFormat, QFlags<KSyntaxHighlighting::AnsiHighlighter::Option>)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::highlightFile(QString const&, KSyntaxHighlighting::AnsiHighlighter::AnsiFormat, QFlags<KSyntaxHighlighting::AnsiHighlighter::Option>)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::setOutputFile(_IO_FILE*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::setOutputFile(QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::AnsiHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::AnsiHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::~AnsiHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::~AnsiHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AnsiHighlighter::~AnsiHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::applyFormat(int, int, KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::highlightData(QIODevice*, QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::highlightFile(QString const&, QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::setOutputFile(_IO_FILE*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::setOutputFile(QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::HtmlHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::HtmlHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::~HtmlHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::~HtmlHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::HtmlHighlighter::~HtmlHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::WildcardMatcher::exactMatch(QStringView, QStringView)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::applyFormat(int, int, KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::qt_metacall(QMetaObject::Call, int, void**)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::qt_metacast(char const*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::applyFolding(int, int, KSyntaxHighlighting::FoldingRegion)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::setDefinition(KSyntaxHighlighting::Definition const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::highlightBlock(QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::setTheme(KSyntaxHighlighting::Theme const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::SyntaxHighlighter(QTextDocument*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::SyntaxHighlighter(QObject*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::SyntaxHighlighter(QTextDocument*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::SyntaxHighlighter(QObject*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::~SyntaxHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::~SyntaxHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::~SyntaxHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::applyFolding(int, int, KSyntaxHighlighting::FoldingRegion)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::highlightLine(QStringView, KSyntaxHighlighting::State const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::setDefinition(KSyntaxHighlighting::Definition const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::setTheme(KSyntaxHighlighting::Theme const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::AbstractHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::AbstractHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::~AbstractHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::~AbstractHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::~AbstractHighlighter()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::qt_metacall(QMetaObject::Call, int, void**)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::qt_metacast(char const*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::informationMessage(QString const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::done()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::start()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::DefinitionDownloader(KSyntaxHighlighting::Repository*, QObject*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::DefinitionDownloader(KSyntaxHighlighting::Repository*, QObject*)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::~DefinitionDownloader()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::~DefinitionDownloader()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::~DefinitionDownloader()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::State(KSyntaxHighlighting::State&&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::State(KSyntaxHighlighting::State const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::State()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::State(KSyntaxHighlighting::State&&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::State(KSyntaxHighlighting::State const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::State()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::~State()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::~State()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::operator=(KSyntaxHighlighting::State&&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::operator=(KSyntaxHighlighting::State const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::Theme(KSyntaxHighlighting::Theme const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::Theme()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::Theme(KSyntaxHighlighting::Theme const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::Theme()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::~Theme()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::~Theme()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::operator=(KSyntaxHighlighting::Theme const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::qHash(KSyntaxHighlighting::State const&, unsigned long)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::Format(KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::Format()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::Format(KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::Format()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::~Format()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::~Format()
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::operator=(KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::extensions() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::keywordList(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::keywordLists() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::foldingEnabled() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::translatedName() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::isWordDelimiter(QChar) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::alternativeNames() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::foldingIgnoreList() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::translatedSection() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::characterEncodings() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::includedDefinitions() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::isWordWrapDelimiter(QChar) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::multiLineCommentMarker() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::singleLineCommentMarker() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::singleLineCommentPosition() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::indentationBasedFoldingEnabled() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::name() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::style() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::author() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::formats() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::isValid() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::license() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::section() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::version() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::filePath() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::indenter() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::isHidden() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::priority() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::mimeTypes() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::operator==(KSyntaxHighlighting::Definition const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Definition::operator!=(KSyntaxHighlighting::Definition const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::metaObject() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::definitions() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::defaultTheme(KSyntaxHighlighting::Repository::DefaultTheme) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::themeForPalette(QPalette const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::customSearchPaths() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::definitionForName(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::definitionForFileName(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::definitionForMimeType(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::definitionsForFileName(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::definitionsForMimeType(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::theme(QString const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Repository::themes() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::id() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::type() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::isValid() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::sibling() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::FoldingRegion::operator==(KSyntaxHighlighting::FoldingRegion const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::metaObject() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::startsFoldingRegion(QTextBlock const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::SyntaxHighlighter::findFoldingRegionEnd(QTextBlock const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::definition() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::AbstractHighlighter::theme() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::DefinitionDownloader::metaObject() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::indentationBasedFoldingEnabled() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::operator==(KSyntaxHighlighting::State const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::State::operator!=(KSyntaxHighlighting::State const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::isReadOnly() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::editorColor(KSyntaxHighlighting::Theme::EditorColorRole) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::isUnderline(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::translatedName() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::backgroundColor(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::isStrikeThrough(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::selectedTextColor(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::selectedBackgroundColor(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::name() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::isBold(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::isValid() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::filePath() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::isItalic(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Theme::textColor(KSyntaxHighlighting::Theme::TextStyle) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::spellCheck() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::isUnderline(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasTextColor(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::backgroundColor(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasBoldOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::isStrikeThrough(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasItalicOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::selectedTextColor(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasBackgroundColor(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::isDefaultTextStyle(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasTextColorOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasUnderlineOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::selectedBackgroundColor(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasStrikeThroughOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasBackgroundColorOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasSelectedTextColorOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::id() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::hasSelectedBackgroundColorOverride() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::name() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::isBold(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::isValid() const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::isItalic(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::textColor(KSyntaxHighlighting::Theme const&) const
+libKF6SyntaxHighlighting.so.6:KSyntaxHighlighting::Format::textStyle() const
+libKF6SyntaxHighlighting.so.6:non-virtual thunk to KSyntaxHighlighting::SyntaxHighlighter::applyFormat(int, int, KSyntaxHighlighting::Format const&)
+libKF6SyntaxHighlighting.so.6:non-virtual thunk to KSyntaxHighlighting::SyntaxHighlighter::applyFolding(int, int, KSyntaxHighlighting::FoldingRegion)
+libKF6SyntaxHighlighting.so.6:non-virtual thunk to KSyntaxHighlighting::SyntaxHighlighter::setDefinition(KSyntaxHighlighting::Definition const&)
+libKF6SyntaxHighlighting.so.6:non-virtual thunk to KSyntaxHighlighting::SyntaxHighlighter::setTheme(KSyntaxHighlighting::Theme const&)
+libKF6SyntaxHighlighting.so.6:non-virtual thunk to KSyntaxHighlighting::SyntaxHighlighter::~SyntaxHighlighter()
+libKF6SyntaxHighlighting.so.6:non-virtual thunk to KSyntaxHighlighting::SyntaxHighlighter::~SyntaxHighlighter()
